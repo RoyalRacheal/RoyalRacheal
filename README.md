@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am a Data Scientist and a Knowledge Manager! I am focused on growing an informed society; bringing needed information/knowledge to the right people at the right time. I look forward to doing this giving value for value.
-
-I am passionate about ICT(I love technology and the adventures that come with it) and I am starting off with Data Science because I love to draw inferences from data, helping people and organizations make informed decisions.
+I am a Data Analyst! I am focused on growing an informed society; bringing needed information to the right people at the right time. I am passionate about technology and big data, drawing inferences from data to help individuals and organisations make informed decisions to tenaciously impact positive changes in & through the Information Technology sector into other sectors.
 
 Talk about Technology and you'd find me in the forefront in the nearest future. 
 
